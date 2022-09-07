@@ -1,2 +1,2 @@
 # online-payment
-Online payment solution (pos)
+Online payment solution (pos)- IPC Purchase
